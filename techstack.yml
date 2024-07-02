@@ -1,0 +1,56 @@
+repo_name: guptaaashutosh/MarkoShopping
+report_id: 553d152294ba31afe4b3cf30f5b8c69e
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T11:32:11+00:00'
+requested_by: guptaaashutosh
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/guptaaashutosh/MarkoShopping
+  detection_source: Repo Metadata
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/guptaaashutosh/MarkoShopping/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Aashutosh
+  last_updated_on: 2023-05-19 12:33:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/guptaaashutosh/MarkoShopping
+  detection_source: Repo Metadata
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  version: 8.0.30
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/guptaaashutosh/MarkoShopping/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Aashutosh
+  last_updated_on: 2023-05-19 12:33:22.000000000 Z
